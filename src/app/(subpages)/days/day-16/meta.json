@@ -1,0 +1,11 @@
+{
+  "id": "day-16",
+  "title": "3 Luglio 2026: La solitudine",
+  "description": "\"La solitudine non deriva dall'essere senza persone intorno, ma dall'essere incapaci di comunicare le cose che sembrano importanti.” — Carl Gustav Jung",
+  "date": "2026-07-03T00:00:00.000Z",
+  "location": "San Benedetto del Tronto, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1594751439417-df8aab2a0c11?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-16"
+}

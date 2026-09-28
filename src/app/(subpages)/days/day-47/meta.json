@@ -1,0 +1,11 @@
+{
+  "id": "day-47",
+  "title": "3 Agosto 2026: Osare",
+  "description": "“Non è perché le cose sono difficili che non osiamo, è perché non osiamo che sono difficili” — Lucio Anneo Seneca",
+  "date": "2026-08-03T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1642690167184-eb64f4ef469f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-47"
+}

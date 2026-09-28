@@ -1,0 +1,11 @@
+{
+  "id": "day-14",
+  "title": "1 Luglio 2026: La fine dell'inizio",
+  "description": "\"Ogni nuovo inizio proviene dalla fine di un altro inizio. Non guardare al passato come a una perdita, ma come a spazio disponibile per fare meglio.\"— Lucio Anneo Seneca",
+  "date": "2026-07-01T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1625585598750-3535fe40efb3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-14"
+}

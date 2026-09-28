@@ -1,0 +1,11 @@
+{
+  "id": "day-23",
+  "title": "10 Luglio 2026: Il potere",
+  "description": "\"Hai potere sulla tua mente, non sugli eventi esterni. Comprendi questo, e troverai forza.” — Marco Aurelio",
+  "date": "2026-07-10T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1593957095633-edf2889d21d3?q=80&w=1734&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-23"
+}

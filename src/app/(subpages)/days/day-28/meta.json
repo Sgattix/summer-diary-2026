@@ -1,0 +1,11 @@
+{
+  "id": "day-28",
+  "title": "15 Luglio 2026: Capire per creare",
+  "description": "\"Ciò che non posso creare, non lo capisco.” — Richard Feynman",
+  "date": "2026-07-15T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1694730750153-8b66cf3dd014?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-28"
+}

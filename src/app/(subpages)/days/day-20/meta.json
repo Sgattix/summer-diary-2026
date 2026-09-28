@@ -1,0 +1,11 @@
+{
+  "id": "day-20",
+  "title": "7 Luglio 2026: Il comportamento",
+  "description": "\"Il comportamento è lo specchio nel quale ognuno mostra la propria immagine.\" — Johann Wolfgang von Goethe",
+  "date": "2026-07-07T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://plus.unsplash.com/premium_photo-1682310144714-cb77b1e6d64a?q=80&w=1812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-20"
+}

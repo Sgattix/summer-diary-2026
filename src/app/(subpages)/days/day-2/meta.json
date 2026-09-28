@@ -1,0 +1,11 @@
+{
+  "id": "day-2",
+  "title": "La perfezione come arte del togliere",
+  "description": "\"La perfezione non si raggiunge quando non c'è più nulla da aggiungere, ma quando non resta più nulla da togliere.— Antoine de Saint-Exupéry",
+  "date": "2026-06-20T00:00:00.000Z",
+  "location": "Macerata, Italy",
+  "featured": true,
+  "tags": ["travel", "diary"],
+  "imageUrl": "/images/day-2-preview.jpg",
+  "route": "/days/day-2"
+}

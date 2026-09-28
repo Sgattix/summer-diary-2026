@@ -1,0 +1,11 @@
+{
+  "id": "day-66",
+  "title": "22 Agosto 2026: Imparare",
+  "description": "“La vita non è aspettare che passi la tempesta, ma imparare a ballare sotto la pioggia.” — Vivian Greene",
+  "date": "2026-08-22T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1721496056573-c3f5f44eac47?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-66"
+}

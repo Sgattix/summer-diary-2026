@@ -1,0 +1,11 @@
+{
+  "id": "day-36",
+  "title": "23 Luglio 2026: Trovare noi stessi",
+  "description": "\"Il modo migliore per trovare te stesso è perderti al servizio degli altri.\"  — Mahatma Ghandi",
+  "date": "2026-07-23T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1750049063222-bf9fe512deaa?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-36"
+}

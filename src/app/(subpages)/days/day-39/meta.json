@@ -1,0 +1,11 @@
+{
+  "id": "day-39",
+  "title": "26 Luglio 2026: Chi sei?",
+  "description": "\"Noi siamo ciò che facciamo ripetutamente. L'eccellenza, dunque, non è un atto ma un'abitudine.” — Will Durant, interpretando Aristotele",
+  "date": "2026-07-26T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1578687388475-47f94962f6e4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-39"
+}
