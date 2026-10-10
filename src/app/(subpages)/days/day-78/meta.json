@@ -1,0 +1,11 @@
+{
+  "id": "day-78",
+  "title": "3 Settembre 2026: Ricominciare",
+  "description": "“Il fallimento è semplicemente l'opportunità di ricominciare, questa volta in modo più intelligente.” — Henry Ford",
+  "date": "2026-09-03T00:00:00.000Z",
+  "location": "Macerata, Italia",
+  "featured": false,
+  "tags": ["reflection", "diary"],
+  "imageUrl": "https://images.unsplash.com/photo-1723650209796-966f1d3d9d45?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "route": "/days/day-78"
+}
